@@ -68,6 +68,18 @@
   .menu a:hover {
     color: #4dc8ff;
   }
+
+  small a {
+    display: inline-block;
+    line-height: 1.33333333333;
+    color: #fff;
+    text-decoration: none;
+    padding: 1.125rem 0;
+  }
+  
+  small a:hover {
+    color: #4dc8ff;
+  }
   
   .content {
     padding-right: 1rem;
